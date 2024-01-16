@@ -17,6 +17,12 @@
     cursor: pointer;
 }
 
+.section-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 * {
     /* font-family: 'Inter', sans-serif;
 font-family: 'Merriweather', serif;
@@ -37,11 +43,7 @@ nav {
     align-items: center;
 }
 
-.nav-title {
-    font-size: 2.8rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 
 nav>ul {
     display: flex;
